@@ -1,5 +1,6 @@
 from tkinter import *
 YELLOW = "#f7f5dd"
+YELLOW2 = "#f7f5dd"
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 
 # ---------------------------- SAVE PASSWORD ------------------------------- #
